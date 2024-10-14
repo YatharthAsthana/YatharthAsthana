@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @YatharthAsthana
-- 👀 I’m interested in Full Stack Development
-- 🌱 I’m currently learning backend development
-- 💞️ I’m looking to collaborate on making interesting projects and learn new things.
+- 👀 I’m interested in the field of Data Science and Data/Business Analytics
+- 🌱 I’m working on improving my skills in data handling and getting useful insights out of it.
+- 💞️ I’m looking to collaborate on doing interesting projects and learning new things.
 - 📫 How to reach me www.linkedin.com/in/yatharth-asthana-061aa8159
 
 <!---
